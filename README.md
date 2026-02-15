@@ -41,7 +41,7 @@ I'm a **Data & AI focused Developer** from India who loves building intelligent 
 ## 🐍 My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samruddhibhandari/samruddhibhandari/output/snake.svg" />
+ <img src="https://raw.githubusercontent.com/samruddhibhandari/samruddhibhandari/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
