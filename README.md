@@ -27,23 +27,19 @@ I'm a **third-year Information Technology student** at Sinhgad College of Engine
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=light" />
 
 ```
-Python    ████████████░░░   Strong
-SQL       ████████░░░░░░░   Intermediate  
-Pandas    ████████████░░░   Strong
-NumPy     ████████░░░░░░░   Intermediate
-```
 
 ### Visualization & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 
-| Tool | Usage |
-|------|-------|
-| Matplotlib + Seaborn | Statistical visualizations and EDA |
-| Power BI | Interactive business dashboards |
-| Plotly | Interactive chart creation |
-| BeautifulSoup + Requests | Web scraping and REST APIs |
-| VADER (NLTK) | Sentiment analysis on text data |
-| Jupyter Notebook | Analysis and documentation |
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-orange?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK%20VADER-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
