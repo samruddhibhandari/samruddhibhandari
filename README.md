@@ -26,7 +26,6 @@ I'm a **third-year Information Technology student** at Sinhgad College of Engine
 ### Languages & Analysis
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=light" />
 
-```
 
 ### Visualization & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
