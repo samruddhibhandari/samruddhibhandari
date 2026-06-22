@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **third-year Information Technology student** at Sinhgad College of Engineering, Pune, building a strong foundation in data analytics through real-world projects.
+I'm a **Final-year Information Technology student** at Sinhgad College of Engineering, Pune, building a strong foundation in data analytics through real-world projects.
 
 - 🔭 Currently building **SkillScope** — a real analytics project scraping live job market data from Internshala
 - 📊 Skilled in **Python, Pandas, EDA, Web Scraping, REST APIs, and Power BI**
